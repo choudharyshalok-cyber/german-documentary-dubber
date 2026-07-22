@@ -1,0 +1,7 @@
+yt-dlp
+openai-whisper
+edge-tts
+moviepy
+ffmpeg-python
+torch
+tqdm
